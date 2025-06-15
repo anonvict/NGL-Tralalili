@@ -1,0 +1,6 @@
+# Ini adalah contoh daftar proxy gratis, tidak direkomendasikan karena sering timeout/connection error (maklum, Free 😸)
+# dari: free-proxy-list.net
+
+193.233.230.46:8085
+64.49.36.149:8085
+193.233.140.231:8085
