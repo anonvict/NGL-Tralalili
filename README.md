@@ -72,13 +72,4 @@ cat proxies.txt
 
 ---
 
-## 🎬 Contoh Video
-
-<details>
-  <summary>Like this 💧</summary>
-  <br>
-  [Tonton Video NGL Tralalili](https://github.com/anonvict/NGL-Tralalili/blob/master/video/ngl-tralalili.mp4)
-</details>
-
-
 > ⚠️**This tools is education purpose only, Using these tools illegally can cause uncomfortable things in others :( And I am not responsible for what your fingers do! so use it wisely bro >.<**
