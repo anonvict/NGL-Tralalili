@@ -78,7 +78,8 @@ def send_request(session, username, message, user_agent, proxy=None, retry=0):
         with lock:
             if status_code == 200:
                 success_count += 1
-                print(f"[{current_time}] {berhasil} Success: {success_count} (Proxy: {'\033[32mYes\033[0m' if proxy else '\033[31mNo\033[0m'})\033[0m")
+                proxy_status = '\033[32mYes\033[0m' if proxy else '\033[31mNo\033[0m'
+                print(f"[{current_time}] {berhasil} Success: {success_count} (Proxy: {proxy_status})")
             elif status_code == 429:
                 rate_limit_count += 1
                 print(f"[{current_time}] {bahaya} Rate Limited (Waiting 5s)")
